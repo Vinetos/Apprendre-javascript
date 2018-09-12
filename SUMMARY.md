@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Préface](README.md)
+* [Introduction à la programmation](introduction-a-la-programmation.md)
 
